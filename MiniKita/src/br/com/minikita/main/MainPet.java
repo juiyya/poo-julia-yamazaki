@@ -5,6 +5,9 @@ import br.com.minikita.model.Cachorro;
 import br.com.minikita.model.VideoGame;
 import br.com.minikita.model.Tutor;
 
+import br.com.minikita.model.Gato;
+import br.com.minikita.model.Pet;
+
 public class MainPet {
     public static void main(String[] args) {
         System.out.println("=== TESTE DE INTERFACES ===");
@@ -23,6 +26,14 @@ public class MainPet {
         for (Brincavel lazer : opcoesDeLazer) {
             lazer.iniciarBrincadeira();
             System.out.println("---");
+        
+         // AULAS 7 E 8 - POLIMORFISMO E ABSTRAÇÃO
+        System.out.println("\n=== Teste de Polimorfismo ===");
+
+        Gato meuGato = new Gato("Taki", tutora);
+        Pet[] pets = {meuCachorro, meuGato};
+            for (Pet pet : pets) {
+        System.out.println(pet.getNome() + ": " + pet.emitirSom());}
         }
     }
 }
