@@ -167,22 +167,6 @@ Para superar essa dificuldade, passei a analisar melhor as responsabilidades de 
 
 ---
 
-## Como executar
-
-É necessário ter o **Java JDK** instalado.
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/juiyya/poo-julia-yamazaki.git
-   ```
-
-2. Abra a pasta do projeto no Eclipse
-
-3. Acesse a pasta do projeto desejado e execute sua classe principal:
-   - **FiapRide:** `SistemaPrincipal.java`
-   - **MiniKita:** `MainPet.java`
-
 ## Conclusão
 
 **O que aprendi nas nove aulas?**
