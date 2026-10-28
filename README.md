@@ -156,6 +156,8 @@ O maior desafio foi entender a ordem do desenvolvimento e como organizar o proje
 | [5 — Associação](UMLs/PNGs/MiniKita/aula5.png)                   |
 | [6 e 7 — Herança e polimorfismo](UMLs/PNGs/MiniKita/aula6.7.png) |
 | [8 — Classes abstratas](UMLs/PNGs/MiniKita/aula8.png)            |
+| [9 — Interfaces ](UMLs/PNGs/MiniKita/aula8.png)                  |
+
 
 ![9](UMLs/PNGs/MiniKita/aula9.png)
 
