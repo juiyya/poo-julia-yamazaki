@@ -11,6 +11,11 @@ public class Passageiro {
         this.setSaldo(0);
     }
 
+    // Aula 4: construtor sem parâmetros
+    public Passageiro() {
+    this("Não informado", "Não informado");
+    }
+    
     public double getSaldo() {
         return this.saldo;
     }

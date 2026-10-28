@@ -130,7 +130,11 @@ Escolhi criar o MiniKita, um pet virtual que pode comer, brincar e dormir, alter
 
 **Qual foi o maior desafio técnico enfrentado?**
 
-O maior desafio foi entender a ordem do desenvolvimento e como organizar o projeto desde o início. Antes, eu pensava em partir direto para o código, mas começar pela modelagem no Astah mudou minha forma de enxergar o processo. Consegui entender melhor como as classes se relacionam e como planejar a estrutura antes de implementar.
+O maior desafio técnico que enfrentei foi entender como organizar o desenvolvimento do projeto e aplicar os conceitos de POO de forma que tudo fizesse sentido em conjunto. No começo, eu tinha o costume de partir direto para o código, criando as classes e os métodos conforme surgia a necessidade, sem pensar muito na estrutura do sistema. Com o avanço das aulas, percebi que isso poderia dificultar a manutenção do código e a implementação de novas funcionalidades.
+
+A modelagem no Astah foi uma das partes mais desafiadoras, porque precisei aprender a visualizar as relações entre as classes antes mesmo de programá-las. Entender quando utilizar associação, herança ou interfaces também exigiu bastante atenção, principalmente no MiniKita, conforme o projeto foi ficando mais complexo. Aos poucos, fui percebendo como cada conceito se encaixava na estrutura e como as decisões tomadas na modelagem influenciavam diretamente o código.
+
+Para superar essa dificuldade, passei a analisar melhor as responsabilidades de cada classe e suas relações antes de implementar as funcionalidades. Isso mudou bastante minha forma de desenvolver, porque entendi que programar não é apenas fazer o código funcionar, mas também pensar em como organizá-lo para que seja mais fácil de entender, modificar e expandir no futuro.
 
 ## Diagramas
 
